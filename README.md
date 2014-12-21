@@ -1,9 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document:
-    toc: yes
----
+
 ## getting and cleaning data project
 ## About Repository
 this repository contains following files for the Getting and Cleaning Data course project :
